@@ -1,6 +1,6 @@
 #include <stdio.h>
 main()
 {
-  printf("alo\r\n");
+  printf("alo mamae\r\n");
 }  
   
